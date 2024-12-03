@@ -1,0 +1,24 @@
+.news-card{
+    padding: 20px;
+    border: 2px solid aqua;
+}
+img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+p{
+    color: #333;
+}
+.btn-read-more{
+    display: block;
+    width: 60%;
+    margin-top: 5%;
+    margin-inline: auto;
+    padding-block: 20px;
+    color: black;
+    background-color: aquamarine;
+}
